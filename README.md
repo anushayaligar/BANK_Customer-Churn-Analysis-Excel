@@ -3,7 +3,6 @@ Customer Churn Analysis (Excel Project)
 🔹 Objective
 
 To analyse customer churn and identify key factors affecting customer retention.
-
 🔹 Tools Used
 Excel (Pivot Tables, XLOOKUP, Dashboard)
 🔹 Key Insights
